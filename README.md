@@ -1,1 +1,10 @@
 # covid19_analysis_with_python
+
+This repository aims to manipulate Covid19 data and visualize to get meaningful insights. 
+# What's in this project.
+We used Pandas library, matplotlib and seaborn.
+With covid dataset we measure the infection rate and number for any countries.
+Some data pre-processing is included.
+And we visualized them, found good measures, applied some statistical approaches(correlation). For example, we found correlation between infection rates and GDP measures.
+
+
